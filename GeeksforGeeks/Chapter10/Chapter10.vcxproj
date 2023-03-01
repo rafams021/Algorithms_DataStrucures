@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbdffcd7-374c-48c2-bea4-d82e574ffe5b}</ProjectGuid>
-    <RootNamespace>Chapter7</RootNamespace>
+    <ProjectGuid>{ffb74478-c988-4c86-9876-17516e8540b7}</ProjectGuid>
+    <RootNamespace>Chapter10</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,26 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter7.cpp" />
-    <ClCompile Include="chocoDistribution.cpp" />
-    <ClCompile Include="countIversions.cpp" />
-    <ClCompile Include="countSort.cpp" />
-    <ClCompile Include="cycleSort.cpp" />
-    <ClCompile Include="hoareQuickSort.cpp" />
-    <ClCompile Include="intersection2SortArr.cpp" />
-    <ClCompile Include="kthSmallestElement.cpp" />
-    <ClCompile Include="lomutoQuickSort.cpp" />
-    <ClCompile Include="merge2SortedArr.cpp" />
-    <ClCompile Include="mergeOerlappingInt.cpp" />
-    <ClCompile Include="mergeSort.cpp" />
-    <ClCompile Include="minimumDifferenceArr.cpp" />
-    <ClCompile Include="naivePartition.cpp" />
-    <ClCompile Include="radixSort.cpp" />
-    <ClCompile Include="sortArr2Types.cpp" />
-    <ClCompile Include="sortArr3Types.cpp" />
-    <ClCompile Include="meetMaxGuests.cpp" />
-    <ClCompile Include="heapSort.cpp" />
-    <ClCompile Include="union2SortArr.cpp" />
+    <ClCompile Include="anagramSearch.cpp" />
+    <ClCompile Include="Chapter10.cpp" />
+    <ClCompile Include="checkAnagram.cpp" />
+    <ClCompile Include="checkForRotation.cpp" />
+    <ClCompile Include="checkStrSubSeq.cpp" />
+    <ClCompile Include="isPalindrome.cpp" />
+    <ClCompile Include="leftMostNonRepChar.cpp" />
+    <ClCompile Include="leftMostRepChar.cpp" />
+    <ClCompile Include="lexicographicRank.cpp" />
+    <ClCompile Include="longestSubStr.cpp" />
+    <ClCompile Include="overviewPatternSearch.cpp" />
+    <ClCompile Include="permutationsWord.cpp" />
+    <ClCompile Include="revWordsStr.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />

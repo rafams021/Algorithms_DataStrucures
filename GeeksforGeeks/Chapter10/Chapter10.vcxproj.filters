@@ -15,64 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter7.cpp">
+    <ClCompile Include="Chapter10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="chocoDistribution.cpp">
+    <ClCompile Include="anagramSearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countIversions.cpp">
+    <ClCompile Include="checkAnagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hoareQuickSort.cpp">
+    <ClCompile Include="checkForRotation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="intersection2SortArr.cpp">
+    <ClCompile Include="checkStrSubSeq.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="kthSmallestElement.cpp">
+    <ClCompile Include="isPalindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lomutoQuickSort.cpp">
+    <ClCompile Include="leftMostNonRepChar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="merge2SortedArr.cpp">
+    <ClCompile Include="leftMostRepChar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeOerlappingInt.cpp">
+    <ClCompile Include="lexicographicRank.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeSort.cpp">
+    <ClCompile Include="longestSubStr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="minimumDifferenceArr.cpp">
+    <ClCompile Include="overviewPatternSearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="naivePartition.cpp">
+    <ClCompile Include="permutationsWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sortArr2Types.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="sortArr3Types.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="union2SortArr.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="meetMaxGuests.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cycleSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="heapSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="countSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="radixSort.cpp">
+    <ClCompile Include="revWordsStr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbdffcd7-374c-48c2-bea4-d82e574ffe5b}</ProjectGuid>
-    <RootNamespace>Chapter7</RootNamespace>
+    <ProjectGuid>{6f88d247-e752-41fb-8b72-b67829d345e0}</ProjectGuid>
+    <RootNamespace>Chapter8</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,26 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter7.cpp" />
-    <ClCompile Include="chocoDistribution.cpp" />
-    <ClCompile Include="countIversions.cpp" />
-    <ClCompile Include="countSort.cpp" />
-    <ClCompile Include="cycleSort.cpp" />
-    <ClCompile Include="hoareQuickSort.cpp" />
-    <ClCompile Include="intersection2SortArr.cpp" />
-    <ClCompile Include="kthSmallestElement.cpp" />
-    <ClCompile Include="lomutoQuickSort.cpp" />
-    <ClCompile Include="merge2SortedArr.cpp" />
-    <ClCompile Include="mergeOerlappingInt.cpp" />
-    <ClCompile Include="mergeSort.cpp" />
-    <ClCompile Include="minimumDifferenceArr.cpp" />
-    <ClCompile Include="naivePartition.cpp" />
-    <ClCompile Include="radixSort.cpp" />
-    <ClCompile Include="sortArr2Types.cpp" />
-    <ClCompile Include="sortArr3Types.cpp" />
-    <ClCompile Include="meetMaxGuests.cpp" />
-    <ClCompile Include="heapSort.cpp" />
-    <ClCompile Include="union2SortArr.cpp" />
+    <ClCompile Include="Chapter8.cpp" />
+    <ClCompile Include="matrixBounderalTraversecpp.cpp" />
+    <ClCompile Include="matrixInSnakePattern.cpp" />
+    <ClCompile Include="printMatrix.cpp" />
+    <ClCompile Include="rotateMatrxiAntiClock90.cpp" />
+    <ClCompile Include="searchInMatrix.cpp" />
+    <ClCompile Include="spiralTraversalM.cpp" />
+    <ClCompile Include="transposeMatrix.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />

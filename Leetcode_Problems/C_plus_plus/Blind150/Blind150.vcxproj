@@ -18,11 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="climbingStairscpp.cpp" />
+    <ClCompile Include="kthLargestElementStream.cpp" />
+    <ClCompile Include="lastStoneWeight.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbdffcd7-374c-48c2-bea4-d82e574ffe5b}</ProjectGuid>
-    <RootNamespace>Chapter7</RootNamespace>
+    <ProjectGuid>{3f01b3e4-2d62-4a85-828c-28832c039935}</ProjectGuid>
+    <RootNamespace>Blind150</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -126,31 +131,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Chapter7.cpp" />
-    <ClCompile Include="chocoDistribution.cpp" />
-    <ClCompile Include="countIversions.cpp" />
-    <ClCompile Include="countSort.cpp" />
-    <ClCompile Include="cycleSort.cpp" />
-    <ClCompile Include="hoareQuickSort.cpp" />
-    <ClCompile Include="intersection2SortArr.cpp" />
-    <ClCompile Include="kthSmallestElement.cpp" />
-    <ClCompile Include="lomutoQuickSort.cpp" />
-    <ClCompile Include="merge2SortedArr.cpp" />
-    <ClCompile Include="mergeOerlappingInt.cpp" />
-    <ClCompile Include="mergeSort.cpp" />
-    <ClCompile Include="minimumDifferenceArr.cpp" />
-    <ClCompile Include="naivePartition.cpp" />
-    <ClCompile Include="radixSort.cpp" />
-    <ClCompile Include="sortArr2Types.cpp" />
-    <ClCompile Include="sortArr3Types.cpp" />
-    <ClCompile Include="meetMaxGuests.cpp" />
-    <ClCompile Include="heapSort.cpp" />
-    <ClCompile Include="union2SortArr.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="test.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

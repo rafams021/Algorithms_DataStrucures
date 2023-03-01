@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbdffcd7-374c-48c2-bea4-d82e574ffe5b}</ProjectGuid>
-    <RootNamespace>Chapter7</RootNamespace>
+    <ProjectGuid>{5c56dd9b-f6b3-40e5-bd30-557c96a442a8}</ProjectGuid>
+    <RootNamespace>Chapter11</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,29 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter7.cpp" />
-    <ClCompile Include="chocoDistribution.cpp" />
-    <ClCompile Include="countIversions.cpp" />
-    <ClCompile Include="countSort.cpp" />
-    <ClCompile Include="cycleSort.cpp" />
-    <ClCompile Include="hoareQuickSort.cpp" />
-    <ClCompile Include="intersection2SortArr.cpp" />
-    <ClCompile Include="kthSmallestElement.cpp" />
-    <ClCompile Include="lomutoQuickSort.cpp" />
-    <ClCompile Include="merge2SortedArr.cpp" />
-    <ClCompile Include="mergeOerlappingInt.cpp" />
-    <ClCompile Include="mergeSort.cpp" />
-    <ClCompile Include="minimumDifferenceArr.cpp" />
-    <ClCompile Include="naivePartition.cpp" />
-    <ClCompile Include="radixSort.cpp" />
-    <ClCompile Include="sortArr2Types.cpp" />
-    <ClCompile Include="sortArr3Types.cpp" />
-    <ClCompile Include="meetMaxGuests.cpp" />
-    <ClCompile Include="heapSort.cpp" />
-    <ClCompile Include="union2SortArr.cpp" />
+    <ClCompile Include="Chapter11.cpp" />
+    <ClCompile Include="circularDLL.cpp" />
+    <ClCompile Include="deleteFirstLL.cpp" />
+    <ClCompile Include="deleteHeadDLL.cpp" />
+    <ClCompile Include="deleteLastDLL.cpp" />
+    <ClCompile Include="deleteLastLL.cpp" />
+    <ClCompile Include="getTailDLL.cpp" />
+    <ClCompile Include="insertAtEndDLL.cpp" />
+    <ClCompile Include="insertBeginingCircDLL.cpp" />
+    <ClCompile Include="insertBeginingDLL.cpp" />
+    <ClCompile Include="insertBeginingLL.cpp" />
+    <ClCompile Include="insertEndCircDLL.cpp" />
+    <ClCompile Include="insertGivenPoscpp.cpp" />
+    <ClCompile Include="printCircularDLL.cpp" />
+    <ClCompile Include="printLL.cpp" />
+    <ClCompile Include="insertEndLL.cpp" />
+    <ClCompile Include="reverseDLL.cpp" />
+    <ClCompile Include="searchInLL.cpp" />
+    <ClCompile Include="vecToDLL.cpp" />
+    <ClCompile Include="vecToLLcpp.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="test.h" />
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

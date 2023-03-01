@@ -15,69 +15,69 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter7.cpp">
+    <ClCompile Include="Chapter11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="chocoDistribution.cpp">
+    <ClCompile Include="printLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countIversions.cpp">
+    <ClCompile Include="vecToLLcpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hoareQuickSort.cpp">
+    <ClCompile Include="insertBeginingLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="intersection2SortArr.cpp">
+    <ClCompile Include="insertEndLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="kthSmallestElement.cpp">
+    <ClCompile Include="deleteFirstLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lomutoQuickSort.cpp">
+    <ClCompile Include="deleteLastLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="merge2SortedArr.cpp">
+    <ClCompile Include="insertGivenPoscpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeOerlappingInt.cpp">
+    <ClCompile Include="searchInLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeSort.cpp">
+    <ClCompile Include="vecToDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="minimumDifferenceArr.cpp">
+    <ClCompile Include="insertBeginingDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="naivePartition.cpp">
+    <ClCompile Include="reverseDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sortArr2Types.cpp">
+    <ClCompile Include="deleteHeadDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sortArr3Types.cpp">
+    <ClCompile Include="deleteLastDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="union2SortArr.cpp">
+    <ClCompile Include="circularDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="meetMaxGuests.cpp">
+    <ClCompile Include="insertAtEndDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cycleSort.cpp">
+    <ClCompile Include="printCircularDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="heapSort.cpp">
+    <ClCompile Include="getTailDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countSort.cpp">
+    <ClCompile Include="insertBeginingCircDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="radixSort.cpp">
+    <ClCompile Include="insertEndCircDLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="test.h">
+    <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

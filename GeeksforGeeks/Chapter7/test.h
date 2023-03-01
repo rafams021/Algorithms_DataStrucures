@@ -8,7 +8,6 @@ struct Interval{
 
 void merge2SortedArr1(int* arr1, int* arr2, int sizeA1, int sizeA2);
 void merge2SortedArr2(int* arr1, int* arr2, int sizeA1, int sizeA2);
-void mergeSort1(int* arr, int low, int mid, int high);
 void mergeSort(int* arr, int low, int high);
 void inter2SortArrN(int* arr1, int* arr2, const int size1, const int size2);
 void inter2SortArr(int* arr1, int* arr2, const int size1, const int size2);
@@ -30,5 +29,8 @@ void sortArr2TypesLomuto(int* arr, int sizeA);
 void sortArr3TypesN(int* arr, int sizeA);
 void sortArr3TypesLomuto(int* arr, int sizeA);
 void mergeOverlappingInt(Interval* arr, int sizeInt);
+int meetMaxGuests(int* arrive, int* departure, int sizeA);
+void cycleSort(int* arr, int sizeA);
+void heapSort(int* arr, int sizeA);
 
 #endif // TEST_H_INCLUDED
